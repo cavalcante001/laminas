@@ -1,0 +1,2 @@
+[Fri Apr 21 12:47:22.486400 2023] [core:alert] [pid 13204] [client 127.0.0.1:33248] /home/paulo/sites/laminas/public/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration
+[Fri Apr 21 12:47:22.732024 2023] [core:alert] [pid 13206] [client 127.0.0.1:33264] /home/paulo/sites/laminas/public/.htaccess: Invalid command 'RewriteEngine', perhaps misspelled or defined by a module not included in the server configuration, referer: http://laminas.local.com.br/
